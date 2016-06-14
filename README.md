@@ -22,8 +22,8 @@ Attended the conference? Continue learning with the speakers' resources
 
   - Jonathan at [Shapeshift](https://shapeshift.io/) :
 [Repo Shapeshift] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
- 
- - Mohit Kalra at [CoinSecure](https://coinsecure.in/) :
+
+  - Mohit Kalra at [CoinSecure](https://coinsecure.in/) :
 [Repo Coinsecure] (https://github.com/coinsecure/coinsecure.github.io) 
 
   - Mano Thanabalan at [Otonomos](https://otonomos.com/) :
