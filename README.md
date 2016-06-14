@@ -9,6 +9,8 @@ Table of Contents
 - [Speakers] (#Speakers) 
  - Muneeb Ali at [Blockstack](https://blockstack.org)
 [Repo Blockstack] (https://github.com/blockstack/blockstack-cli)
+- Mano Thanabalan at [Otonomos](https://otonomos.com)
+[Repo Otonomos] (https://github.com/Otonomos/smart-equity)
 
 
 - [External Links] (#External-Links)
