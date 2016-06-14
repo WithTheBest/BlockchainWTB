@@ -6,6 +6,19 @@ Join some of the most esteemed Blockchain experts for exclusive live coding sess
 
 Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
 
+Table of Contents
+
+    Muneeb Ali, BlockStack [Blockstack](https://blockstacklabs.org)
+
+[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
+    C
+        General-Purpose Machine Learning
+[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
+    C++
+        Computer Vision
+[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
+        
+
 
 Eva Shon
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
