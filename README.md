@@ -10,6 +10,20 @@ Table of Contents
 1. [Speakers] (#Speakers)
 2. [External Links] (#External-Links)
 
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
+
 #Speakers
     Muneeb Ali, BlockStack [Blockstack](https://blockstacklabs.org)
 
