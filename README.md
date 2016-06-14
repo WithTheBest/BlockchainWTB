@@ -34,7 +34,7 @@ Enjoy the world’s top Blockchain developers' talks right in the comfort of you
 Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
 
 #Speakers
-Muneeb Ali, BlockStack [Blockstack](https://blockstacklabs.org)
+Muneeb Ali, BlockStack [Blockstack](https://blockstack.org)
 
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
     C
