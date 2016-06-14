@@ -6,28 +6,7 @@ Attended the conference? Continue learning with the speakers' resources
 
 Table of Contents
 [Speakers] (#speakers) 
-  - Muneeb Ali at [Blockstack](https://blockstack.org)
-  - Mano Thanabalan at [Otonomos](https://otonomos.com)
-  - Joseph Lubin at [ConsenSys](https://consensys.net/)
-  - Jonathan at [Shapeshift](https://shapeshift.io/)
-  - Mohit Kalra at [CoinSecure](https://coinsecure.in/)
-  - Mano Thanabalan at [Otonomos](https://otonomos.com/)
-  - Kobi Gurkan at [Ownership](https://shapeshift.io/)
-  - Eva Shon at [ConsenSys](https://consensys.net/)
-  - Sergej Kotliar at [Ownership](https://shapeshift.io/)
-  - Nikolai Mushegian at [Ownership](https://shapeshift.io/)
-  - Josh Cincinnati at [Ownership](https://shapeshift.io/)
-  - William Kehl at [Ownership](https://shapeshift.io/)
-  - Dan Rubins at [Ownership](https://shapeshift.io/)
-  - Zach Ramsay at [Ownership](https://shapeshift.io/)
-  - Kristen Stone at [Ownership](https://shapeshift.io/)
-  - Ethan Buchman at [Ownership](https://shapeshift.io/)
-  - Adan Sanchez at [Ownership](https://shapeshift.io/)
-  - White Jackson at [Ownership](https://shapeshift.io/)
-  - Patrick Salami at [Ownership](https://shapeshift.io/)
-
-
-- [External Links] (#external-links)
+[External Links] (#external-links)
 - 
 - [Q&A](#qandA)
     - [Natural Language Processing](#clojure-nlp)
@@ -64,7 +43,7 @@ Muneeb Ali, BlockStack [Blockstack](https://blockstack.org)
   - Kobi Gurkan at [Ownership](https://shapeshift.io/)
 [Repo ] ( )
  - Eva Shon at [ConsenSys](https://consensys.net/)
-[Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
+[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
  - Sergej Kotliar at [Ownership](https://shapeshift.io/)
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
  - Nikolai Mushegian at [Ownership](https://shapeshift.io/)
@@ -90,11 +69,8 @@ Muneeb Ali, BlockStack [Blockstack](https://blockstack.org)
 
 
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
-    C
+    
         General-Purpose Machine Learning
-[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
-
-Eva Shon
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
 
 # External Links
