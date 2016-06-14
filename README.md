@@ -8,19 +8,10 @@ Enjoy the world’s top Blockchain developers' talks right in the comfort of you
 
 Table of Contents
  
-- [Speakers] (#Speakers)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
-    - [Muneeb Ali](#apl-general-purpose)
+- [Speakers] (#Speakers) 
+ - Muneeb Ali at [Otonomos](https://otonomos.com)
+
+
 
 - [External Links] (#External-Links)
 - 
