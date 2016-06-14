@@ -9,7 +9,7 @@ Enjoy the world’s top Blockchain developers' talks right in the comfort of you
 Table of Contents
  
 - [Speakers] (#Speakers) 
- - Muneeb Ali at [Otonomos](https://otonomos.com)
+ - Muneeb Ali at [Otonomos](otonomos.com)
 
 
 
