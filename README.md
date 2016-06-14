@@ -7,12 +7,9 @@ Attended the conference? Continue learning with the speakers' resources
 Table of Contents
 [Speakers] (#speakers) 
 [External Links] (#external-links)
-- 
-- [Q&A](#qandA)
+[Q&A](#qandA)
     - [Natural Language Processing](#clojure-nlp)
     - [General-Purpose Machine Learning](#clojure-general-purpose)
-
-
 
 # Speakers
   - Muneeb Ali at [Blockstack](https://blockstack.org) :
@@ -31,34 +28,29 @@ Table of Contents
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
   - Eva Shon at [ConsenSys](https://consensys.net/) :
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
- - Sergej Kotliar at [Ownership](https://shapeshift.io/) :
+ - Sergej Kotliar at [BitRefill](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
- - Nikolai Mushegian at [Ownership](https://shapeshift.io/) :
+ - Nikolai Mushegian at [Nexus Dev](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
- - Josh Cincinnati at [Ownership](https://shapeshift.io/) :
+ - Josh Cincinnati at [BlockCypher](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
- - William Kehl at [Ownership](https://shapeshift.io/) :
+ - William Kehl at [Coinigy](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-- Dan Rubins at [Ownership](https://shapeshift.io/) :
+- Dan Rubins at [Legal Robot](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-- Zach Ramsay at [Ownership](https://shapeshift.io/) :
+- Zach Ramsay at [Eris Industries](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-- Kristen Stone at [Ownership](https://shapeshift.io/) :
+- Kristen Stone at [Coinbase](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-- Ethan Buchman at [Ownership](https://shapeshift.io/) :
+- Ethan Buchman at [BlockCypher](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-- Adan Sanchez at [Ownership](https://shapeshift.io/) :
+- Adan Sanchez at [Stampery](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-- White Jackson at [Ownership](https://shapeshift.io/) :
+- Whit Jackson at [Netki](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-- Patrick Salami at [Ownership](https://shapeshift.io/) :
+- Patrick Salami at [HitFin](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
 
-
-[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
-    
-        General-Purpose Machine Learning
-[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
 
 # External Links
 
