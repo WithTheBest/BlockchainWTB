@@ -38,11 +38,6 @@ Muneeb Ali, BlockStack [Blockstack](https://blockstack.org)
     C
         General-Purpose Machine Learning
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
-    C++
-        Computer Vision
-[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
-        
-
 
 Eva Shon
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
