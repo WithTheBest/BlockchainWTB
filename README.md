@@ -13,26 +13,37 @@ Attended the conference? Continue learning with the speakers' resources
 # Speakers
   - Muneeb Ali at [Blockstack](https://blockstack.org) :
 [Repo Blockstack] (https://github.com/blockstack/blockstack-cli)
+
   - Mano Thanabalan at [Otonomos](https://otonomos.com) :
 [Repo Otonomos] (https://github.com/Otonomos/smart-equity)
+
   - Joseph Lubin at [ConsenSys](https://consensys.net/) :
 [Repo ConsenSys] (https://github.com/ConsenSys)
+
   - Jonathan at [Shapeshift](https://shapeshift.io/) :
 [Repo Shapeshift] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
-  - Mohit Kalra at [CoinSecure](https://coinsecure.in/) :
+ 
+ - Mohit Kalra at [CoinSecure](https://coinsecure.in/) :
 [Repo Coinsecure] (https://github.com/coinsecure/coinsecure.github.io) 
+
   - Mano Thanabalan at [Otonomos](https://otonomos.com/) :
-[Repo Otonomos] () 
+[Repo Otonomos] (https://github.com/Otonomos/smart-equity) 
+
   - Kobi Gurkan at [Ownership](https://shapeshift.io/) :
-[Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
+  
   - Eva Shon at [ConsenSys](https://consensys.net/) :
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
- - Sergej Kotliar at [BitRefill](https://shapeshift.io/) :
-[Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
- - Nikolai Mushegian at [Nexus Dev](https://shapeshift.io/) :
-[Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
- - Josh Cincinnati at [BlockCypher](https://shapeshift.io/) :
-[Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
+
+  - Sergej Kotliar at [BitRefill](https://www.bitrefill.com/) :
+[Absolute README link] (https://github.com/bitrefill/api-example-blockchain-wtb/blob/master/README.md)
+
+  - Nikolai Mushegian at [Nexus Dev](https://nexusdev.us/) :
+[Demo] [Absolute README link] (https://github.com/nexusdev/demo/blob/master/README.md)
+[Dapple][Absolute README link] (https://github.com/nexusdev/dapple/blob/master/README.md)
+  
+ - Josh Cincinnati at [BlockCypher](http://www.blockcypher.com/) :
+[Absolute README link] (https://github.com/blockcypher/docs/blob/master/README.md)
+
  - William Kehl at [Coinigy](https://shapeshift.io/) :
 [Repo ConsenSys] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
 - Dan Rubins at [Legal Robot](https://shapeshift.io/) :
