@@ -4,12 +4,11 @@ With The Best is the biggest Online Conference Series for developers.
 Join some of the most esteemed Blockchain experts for exclusive live coding sessions and benefit from 1-to-1 mentoring.
 Attended the conference? Continue learning with the speakers' resources
 
-Table of Contents
-[Speakers] (#speakers) 
-[External Links] (#external-links)
-[Q&A](#qandA)
-    - [Natural Language Processing](#clojure-nlp)
-    - [General-Purpose Machine Learning](#clojure-general-purpose)
+## Table of Contents
+- [Speakers] (#speakers) 
+- [External Links] (#external-links)
+- [Q&A](#qandA)
+   
 
 # Speakers
   - Muneeb Ali at [Blockstack](https://blockstack.org) :
