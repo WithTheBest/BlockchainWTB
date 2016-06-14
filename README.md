@@ -7,8 +7,26 @@ Join some of the most esteemed Blockchain experts for exclusive live coding sess
 Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
 
 Table of Contents
-1. [Speakers] (#Speakers)
-2. [External Links] (#External-Links)
+ 
+- [Speakers] (#Speakers)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+    - [Muneeb Ali](#apl-general-purpose)
+
+- [External Links] (#External-Links)
+- 
+- [Q&A](#QandA)
+    - [Natural Language Processing](#clojure-nlp)
+    - [General-Purpose Machine Learning](#clojure-general-purpose)
 
 Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
 Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
@@ -41,3 +59,8 @@ Eva Shon
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
 
 # External Links
+
+
+
+
+# Q and A
