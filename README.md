@@ -7,7 +7,10 @@ Join some of the most esteemed Blockchain experts for exclusive live coding sess
 Enjoy the world’s top Blockchain developers' talks right in the comfort of your home
 
 Table of Contents
+1. [Speakers] (#Speakers)
+2. [External Links] (#External-Links)
 
+#Speakers
     Muneeb Ali, BlockStack [Blockstack](https://blockstacklabs.org)
 
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
@@ -22,3 +25,5 @@ Table of Contents
 
 Eva Shon
 [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
+
+# External Links
