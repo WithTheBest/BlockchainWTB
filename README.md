@@ -9,8 +9,8 @@ Enjoy the world’s top Blockchain developers' talks right in the comfort of you
 Table of Contents
  
 - [Speakers] (#Speakers) 
- - Muneeb Ali at [Otonomos](otonomos.com)
-
+ - Muneeb Ali at [Blockstack](https://blockstack.org)
+[Repo Blockstack] (https://github.com/blockstack/blockstack-cli)
 
 
 - [External Links] (#External-Links)
