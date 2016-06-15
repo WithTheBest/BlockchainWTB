@@ -30,13 +30,13 @@ Attended the conference? Continue learning with the speakers' resources
    
 
 ## Speakers
-####Muneeb Ali at [Blockstack](https://blockstack.org) :
+####Muneeb-Ali at [Blockstack](https://blockstack.org) :
 
 Talk: An introduction to Blockchains
 "Get introduced to blockchains, how Bitcoin (the most secure blockchain) works, and discover what new types of applications and services are enabled by blockchains. Explore what is a Bitcoin miner, what is a 51% attack, how to sign transactions, what are unspent outputs. Further, learn about limitations of blockchains (limited storage, slow write times) and solutions to these limitations."
 - [Repo Blockstack] (https://github.com/blockstack/blockstack-cli)
 
-####Joseph Lubin at [ConsenSys](https://consensys.net/) :
+####Joseph-Lubin at [ConsenSys](https://consensys.net/) :
 
 Talk: Ethereum and ConsenSys: The Evolution of Blockchain
 "Hear from the co-founder of Ethereum and Founder of ConsenSys compare and contrast Ethereum - the decentralised platform that runs smart contracts - to the original Bitcoin technology, how it's capabilities surpass those of an electronic cash system and how ConsenSys works."
@@ -48,19 +48,19 @@ Talk: Challenges in dealing with multiple popular blockchains, accepting payment
 "Challenges of dealing with multiple popular “non-bitcoin” clones: ethereum (ether), Bitshares (BTS), NXT, ripple (XRP), monero (XMR) and more-ShapeShift supports 40+ assets. Possible suggestions/solutions and workarounds along with advantages/disadvantages of various platforms. "
 - [Repo Shapeshift] (https://github.com/Shapeshift-Public/ShapeShift-Skeleton)
 
-####Mohit Kalra at [CoinSecure](https://coinsecure.in/) :
+####Mohit-Kalra at [CoinSecure](https://coinsecure.in/) :
 
 Talk: Huge Potential for Bitcoin and Blockchain Technology - A Closer Look at the work of Indian Bitcoin Exchange, Coinsecure
 "Learn how Coinsecure works to educate and enable individuals and businesses to leverage Bitcoin and Blockchain technology through the first and only INR based blockchain explorer, an open order book exchange with a rest API mock trading platform/testnet, paperwallet services, an online wallet service and various integrations. Explore an overview of Coinsecure and products for developers, the Coinsecure story and bitcoin adoption in India. Dive into Coinsecure’s new API and solutions to challenges it faces."
 - [Repo Coinsecure] (https://github.com/coinsecure/coinsecure.github.io) 
 
-####Mano Thanabalan at [Otonomos](https://otonomos.com/) :
+####Mano-Thanabalan at [Otonomos](https://otonomos.com/) :
 
 Talk: A Concept Proposal for an Ethereum, IPFS and JVM powered dApp
 "The Solidity programming language was built to address the non-deterministic way in which traditional languages such as Java compile into byte or machine specific code. The need for deterministic compilation to assembly language stems from deterministically calculating the running cost of a given Smart Contract. However, if the code, compiled byte code and variable state storage could be stored in a file in IPFS after being run and verified in a JVM, then deterministic compilation would no longer be a relevant requirement. Besides the obvious reduction in gas consumption, this design will also circumvent the Smart Contract gas limit and more complex smart contracts could be deployed."
 - [Repo Otonomos] (https://github.com/Otonomos/smart-equity) 
 
-####Kobi Gurkan at [Ownership](https://ownership.io/) :
+####Kobi-Gurkan at [Ownership](https://ownership.io/) :
 
 Talk: How to build Bitcoin Scripts Using Node.JS  
 "An overview of Bitcoin scripts and how to build them from scratch using Node.JS. Have a better understanding of low-level Bitcoin operations."
