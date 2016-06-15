@@ -6,7 +6,25 @@ Attended the conference? Continue learning with the speakers' resources
 
 ## Table of Contents
 - [Speakers] (#speakers) 
-   -  [Muneeb Ali](####muneeb-ali)
+   -  [Muneeb Ali] (####muneeb-ali)
+   -  [Joseph Lubin] (####joseph-lubin)
+   -  [Jonathan] (####jonathan)
+   -  [Mohit Kalra] (####mohit-kalra)
+   -  [Mano Thanabalan] (####mano-thanabalan)
+   -  [Kobi Gurkan] (####kobi-gurkan)
+   -  [Eva Shon] (####eva-shon)
+   -  [Sergej Kotliar] (####sergej-kotliar)
+   -  [Nikolai Mushegian] (####nikolai-mushegian)
+   -  [William Kehl] (####william-kehl)
+   -  [Josh Cincinnati] (####josh-cincinnati)
+   -  [Dan Rubins] (####dan-rubins)
+   -  [Zach Ramsay] (####zach-ramsay)
+   -  [Kristen Stone] (####kristen-stone)
+   -  [Ethan Buchman] (####ethan-buchman)
+   -  [Whit Jackon] (####white-jackson)
+   -  [Patrick Salami] (####patrick-salami)
+
+
 - [External Links] (#external-links)
 - [Q&A](#qandA)
    
