@@ -6,6 +6,7 @@ Attended the conference? Continue learning with the speakers' resources
 
 ## Table of Contents
 - [Speakers] (#speakers) 
+   -  [Muneeb Ali](####muneeb-ali)
 - [External Links] (#external-links)
 - [Q&A](#qandA)
    
