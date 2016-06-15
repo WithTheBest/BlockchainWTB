@@ -6,7 +6,7 @@ Attended the conference? Continue learning with the speakers' resources
 
 ## Table of Contents
 - [Speakers] (#speakers) 
-   -  [Muneeb Ali] (#####muneeb-ali)
+   -  [Muneeb Ali] (#muneeb-ali)
    -  [Joseph Lubin] (####joseph-lubin)
    -  [Jonathan] (####jonathan)
    -  [Mohit Kalra] (####mohit-kalra)
