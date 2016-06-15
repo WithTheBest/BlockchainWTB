@@ -6,7 +6,7 @@ Attended the conference? Continue learning with the speakers' resources
 
 ## Table of Contents
 - [Speakers] (#speakers) 
-   -  [Muneeb Ali] (#####muneeb-ali-at-blockcstack)
+   -  [Muneeb Ali] (#####muneeb-ali)
    -  [Joseph Lubin] (####joseph-lubin)
    -  [Jonathan] (####jonathan)
    -  [Mohit Kalra] (####mohit-kalra)
@@ -30,7 +30,8 @@ Attended the conference? Continue learning with the speakers' resources
    
 
 ## Speakers
-#### Muneeb Ali at [Blockstack](https://blockstack.org) :
+#### Muneeb Ali 
+at [Blockstack](https://blockstack.org) :
 
 Talk: An introduction to Blockchains
 "Get introduced to blockchains, how Bitcoin (the most secure blockchain) works, and discover what new types of applications and services are enabled by blockchains. Explore what is a Bitcoin miner, what is a 51% attack, how to sign transactions, what are unspent outputs. Further, learn about limitations of blockchains (limited storage, slow write times) and solutions to these limitations."
