@@ -111,13 +111,13 @@ Talk: Blockchain Anchoring: replacing blind trust with mathematical proof
 
 Talk: Building on Blockchains: Which Blocks Should You Use and Why?
 "Just like you choose which language to code in based on what you ultimately want your application to do, so should you choose which blockchain is right for your project. Learn about various blockchains that are out today, what they are best designed for, what additional tools work well with them and what questions you should consider as you build for what will likely be mass scale."
-[Repo Netki] (https://github.com/netkicorp)
+- [Repo Netki] (https://github.com/netkicorp)
 
 ####Patrick Salami at [HitFin](https://www.hitfin.com/) :
 
 Talk: Building Smart Contracts on Ethereum using HitFin APIs and Python
 "Learn about Ethereum transactions in Python, the solidity language, how to deploy an example contract, how to call a contract code with transactions, manage user accounts, send / receive funds, bank account integration, create new financial instruments (i.e. a crowdfunding campaign) and buy and sell digital assets. "
-[Repo HitFin] (https://github.com/hitfin)
+- [Repo HitFin] (https://github.com/hitfin)
 
 
 # External Links
