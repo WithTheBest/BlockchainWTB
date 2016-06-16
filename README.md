@@ -78,6 +78,7 @@ at [ConsenSys](https://consensys.net/) :
 
 Talk: Building decentralized applications (dapps) on Ethereum 
 "Learn how to build Dapps using: Open source tools (Truffle, IPFS, Lightwallet and BTC Relay), ConsenSys tools (BlockApps API and Microsoft Azure BlockApps nodes) and other ConsenSys tools (MetaMask, a Chrome Ethereum plugin, or uPort, an ID management system)."
+- [Repo ConsenSys](https://github.com/ConsenSys)
 - [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
 
 #### Sergej Kotliar 
