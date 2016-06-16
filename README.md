@@ -131,11 +131,11 @@ Talk: Dive into the Coinbase API
 - [Absolute README link] (https://github.com/coinbase/coinbase-node/blob/master/README.md)
 
 #### Ethan Buchman 
-at [BlockCypher](http://www.blockcypher.com/) :
+at [Tendermint](http://www.tendermint.com) :
 
 Talk:Consensus, Security, and the Blockchain Programming Interface
 "Introduction of Tendermint consensus engine and programming interface, which allows developers to build distributed applications in any programming language. The Tendermint consensus engine provides optimal fault tolerance against malicious attacks while handling thousands of transactions per second. Get familiar with the background of consensus problem, solutions, while building and run applications utilizing the platform."
-- [Absolute README link] (https://github.com/blockcypher/php-client/blob/master/README.md)
+- [Repo Tendermint] (https://github.com/tendermint)
 
 #### Adan Sanchez 
 at [Stampery](https://stampery.com/) :
