@@ -66,10 +66,12 @@ Talk: A Concept Proposal for an Ethereum, IPFS and JVM powered dApp
 - [Repo Otonomos] (https://github.com/Otonomos/smart-equity) 
 
 #### Kobi Gurkan 
-at [Ownership](https://ownership.io/) :
+at [Ownership](https://kobigurk.com/) :
 
-Talk: How to build Bitcoin Scripts Using Node.JS  
-"An overview of Bitcoin scripts and how to build them from scratch using Node.JS. Have a better understanding of low-level Bitcoin operations."
+Talk: How to build, test and interpret Bitcoin Scripts Using Node.JS.
+"Learn about the Bitcoin scripting language and low-level Bitcoin operations. Get to know the standard Bitcoin scripts and custom powerful scripts you can craft yourself. You will be able to analyze existing scripts and build new scripts using Node.JS."
+
+- [Absolute README link](https://github.com/kobigurk/WTBConference/blob/master/README.md)
 
 #### Eva Shon and Igor Lilic
 at [ConsenSys](https://consensys.net/) :
