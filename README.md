@@ -12,14 +12,14 @@ Attended the conference? Continue learning with the speakers' resources
    -  [Mohit Kalra] (#mohit-kalra)
    -  [Mano Thanabalan] (#mano-thanabalan)
    -  [Kobi Gurkan] (#kobi-gurkan)
-   -  [Eva Shon] (#eva-shon)
+   -  [Eva Shon and Igor Lilic] (#eva-shon) 
    -  [Sergej Kotliar] (#sergej-kotliar)
    -  [Nikolai Mushegian] (#nikolai-mushegian)
    -  [William Kehl] (#william-kehl)
    -  [Josh Cincinnati] (#josh-cincinnati)
    -  [Dan Rubins] (#dan-rubins)
    -  [Zach Ramsay] (#zach-ramsay)
-   -  [Kristen Stone] (#kristen-stone)
+   -  [Kristen Stone and Maksim Stepanenko] (#kristen-stone)
    -  [Ethan Buchman] (#ethan-buchman)
    -  [Whit Jackon] (#whit-jackson)
    -  [Patrick Salami] (#patrick-salami)
@@ -71,7 +71,7 @@ at [Ownership](https://ownership.io/) :
 Talk: How to build Bitcoin Scripts Using Node.JS  
 "An overview of Bitcoin scripts and how to build them from scratch using Node.JS. Have a better understanding of low-level Bitcoin operations."
 
-#### Eva Shon 
+#### Eva Shon and Igor Lilic
 at [ConsenSys](https://consensys.net/) :
 
 Talk: Building decentralized applications (dapps) on Ethereum 
@@ -121,7 +121,7 @@ Talk: Docker For Blockchains
 Demo of `eris` (see eris-cli); our open-source tool for orchestrating blockchain applications. Covering eris' core concepts as: a) `chains` => setting up and and `new`-ing a chain; b) `keys` => key management with containers; c) `pkgs` => for deploying suits of smart contracts; d) `services` => dockerized applications (pre-built selection & build your own); think `docker-compose`; e) `files` a handy wrapper around IPFS, when it is running as a service.
   - [Absolute README link] (https://github.com/eris-ltd/eris-cli/blob/master/README.md)
 
-#### Kristen Stone 
+#### Kristen Stone and Maksim Stepanenko
 at [Coinbase](https://www.coinbase.com/) :
 
 Talk: Dive into the Coinbase API
