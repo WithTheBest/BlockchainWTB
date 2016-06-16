@@ -100,8 +100,9 @@ at [BlockCypher](http://www.blockcypher.com/) :
 
 Talk: Blockchains and APIs: The Decentralization Spectrum
 "One of the primary features of a blockchain is its decentralization guarantees, but decentralization is not a binary decision. BlockCypher's developer advocate will dive into the tradeoffs between running your own blockchain infrastructure and using a third-party API, using examples and use-cases from BlockCypher's APIs and customers."
-- [Absolute README link] (https://github.com/blockcypher/docs/blob/master/README.md)
- 
+- [Dev files] (http://dev.blockcypher.com/)
+- [Dev Ethereum files] (http://dev.blockcypher.com/eth)
+
 #### William Kehl 
 at [Coinigy](https://www.coinigy.com/) :
 
