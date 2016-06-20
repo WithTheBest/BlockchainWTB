@@ -2,7 +2,7 @@
 
 With The Best is the biggest Online Conference Series for developers.
 Join some of the most esteemed Blockchain experts for exclusive live coding sessions and benefit from 1-to-1 mentoring.
-Attended the conference? Continue learning with the speakers' resources
+Attended the conference? Watch the talks again on the [Blockchain WTB platform] (https://blockchain.withthebest.bemyapp.com) Continue learning with the speakers' resources
 
 ## Table of Contents
 - [Speakers] (#speakers) 
@@ -21,6 +21,7 @@ Attended the conference? Continue learning with the speakers' resources
    -  [Zach Ramsay] (#zach-ramsay)
    -  [Kristen Stone and Maksim Stepanenko] (#kristen-stone-and-maksim-stepanenko)
    -  [Ethan Buchman] (#ethan-buchman)
+   -  [Adan Sanchez] (#adan-sanchez)
    -  [Whit Jackon] (#whit-jackson)
    -  [Patrick Salami] (#patrick-salami)
 
@@ -36,6 +37,7 @@ at [Blockstack](https://blockstack.org) :
 Talk: An introduction to Blockchains
 "Get introduced to blockchains, how Bitcoin (the most secure blockchain) works, and discover what new types of applications and services are enabled by blockchains. Explore what is a Bitcoin miner, what is a 51% attack, how to sign transactions, what are unspent outputs. Further, learn about limitations of blockchains (limited storage, slow write times) and solutions to these limitations."
 - [Repo Blockstack] (https://github.com/blockstack/blockstack-cli)
+- [Slides] (http://www.slideshare.net/LearnWTB/blockchains-101-muneeb-ali-blockstack-labs)
 
 #### Joseph Lubin 
 at [ConsenSys](https://consensys.net/) :
@@ -43,6 +45,7 @@ at [ConsenSys](https://consensys.net/) :
 Talk: Ethereum and ConsenSys: The Evolution of Blockchain
 "Hear from the co-founder of Ethereum and Founder of ConsenSys compare and contrast Ethereum - the decentralised platform that runs smart contracts - to the original Bitcoin technology, how it's capabilities surpass those of an electronic cash system and how ConsenSys works."
 - [Repo ConsenSys] (https://github.com/ConsenSys)
+- [Slides] (http://www.slideshare.net/LearnWTB/blockchain-ethereum-and-consensys)
 
 #### Jonathan 
 at [Shapeshift](https://shapeshift.io/) :
@@ -57,6 +60,7 @@ at [CoinSecure](https://coinsecure.in/) :
 Talk: Huge Potential for Bitcoin and Blockchain Technology - A Closer Look at the work of Indian Bitcoin Exchange, Coinsecure
 "Learn how Coinsecure works to educate and enable individuals and businesses to leverage Bitcoin and Blockchain technology through the first and only INR based blockchain explorer, an open order book exchange with a rest API mock trading platform/testnet, paperwallet services, an online wallet service and various integrations. Explore an overview of Coinsecure and products for developers, the Coinsecure story and bitcoin adoption in India. Dive into Coinsecure’s new API and solutions to challenges it faces."
 - [Repo Coinsecure] (https://github.com/coinsecure/coinsecure.github.io) 
+- [Slides] (http://www.slideshare.net/LearnWTB/building-the-bitcoin-blockchain-ecosystem-a-closer-look-at-the-work-of-indian-bitcoin-exchange-coinsecure-mohit-kalra)
 
 #### Mano Thanabalan 
 at [Otonomos](https://otonomos.com/) :
@@ -64,6 +68,7 @@ at [Otonomos](https://otonomos.com/) :
 Talk: A Concept Proposal for an Ethereum, IPFS and JVM powered dApp
 "The Solidity programming language was built to address the non-deterministic way in which traditional languages such as Java compile into byte or machine specific code. The need for deterministic compilation to assembly language stems from deterministically calculating the running cost of a given Smart Contract. However, if the code, compiled byte code and variable state storage could be stored in a file in IPFS after being run and verified in a JVM, then deterministic compilation would no longer be a relevant requirement. Besides the obvious reduction in gas consumption, this design will also circumvent the Smart Contract gas limit and more complex smart contracts could be deployed."
 - [Repo Otonomos] (https://github.com/Otonomos/smart-equity) 
+- [Slides] (www.slideshare.net/LearnWTB/a-new-smart-contract-design-pattern-concept-proposal-for-an-ethereum-ipfs-and-jvm-powered-dapp-mano-thanabalan-otonomos)
 
 #### Kobi Gurkan 
 at [Ownership](https://kobigurk.com/) :
@@ -72,6 +77,7 @@ Talk: How to build, test and interpret Bitcoin Scripts Using Node.JS.
 "Learn about the Bitcoin scripting language and low-level Bitcoin operations. Get to know the standard Bitcoin scripts and custom powerful scripts you can craft yourself. You will be able to analyze existing scripts and build new scripts using Node.JS."
 
 - [Absolute README link](https://github.com/kobigurk/WTBConference/blob/master/README.md)
+- [Slides] (http://www.slideshare.net/LearnWTB/bitcoin-scripts-using-nodejs)
 
 #### Eva Shon and Igor Lilic
 at [ConsenSys](https://consensys.net/) :
@@ -80,6 +86,7 @@ Talk: Building decentralized applications (dapps) on Ethereum
 "Learn how to build Dapps using: Open source tools (Truffle, IPFS, Lightwallet and BTC Relay), ConsenSys tools (BlockApps API and Microsoft Azure BlockApps nodes) and other ConsenSys tools (MetaMask, a Chrome Ethereum plugin, or uPort, an ID management system)."
 - [Repo ConsenSys](https://github.com/ConsenSys)
 - [Absolute README link](https://github.com/eshon/conference/blob/master/README.md)
+- [Slides] (http://www.slideshare.net/LearnWTB/building-decentralized-applications-dapps-on-ethereum-eva-shon-igor-lilic-consensys)
 
 #### Sergej Kotliar 
 at [BitRefill](https://www.bitrefill.com/) :
@@ -103,6 +110,7 @@ Talk: Blockchains and APIs: The Decentralization Spectrum
 "One of the primary features of a blockchain is its decentralization guarantees, but decentralization is not a binary decision. BlockCypher's developer advocate will dive into the tradeoffs between running your own blockchain infrastructure and using a third-party API, using examples and use-cases from BlockCypher's APIs and customers."
 - [Dev files] (http://dev.blockcypher.com/)
 - [Dev Ethereum files] (http://dev.blockcypher.com/eth)
+- [Slides] (http://www.slideshare.net/LearnWTB/bitcoin-blockchains-and-apis-the-decentralization-spectrum-josh-cincinnati-block-cypher)
 
 #### William Kehl 
 at [Coinigy](https://www.coinigy.com/) :
@@ -117,6 +125,7 @@ at [Legal Robot](https://www.legalrobot.com) :
 Talk: Non-Financial applications of the blockchan
 "The blockchain has obvious financial roots, but there are exciting uses outside of bitcoin and monetary applications. Discover how distributed trust and trust-less systems are starting to impact society's non-financial institutions and create new opportunities in law, real estate, financial planning, physical security, and government - then discover how we're creating some of these new institutions at Legal Robot."
 - [Repo LegalRobot] (https://github.com/LegalRobot)
+- [Slides] (http://www.slideshare.net/LearnWTB/nonfinancial-applications-of-the-blockchain-dan-rubins-legal-robot)
 
 #### Zach Ramsay 
 at [Eris Industries](https://erisindustries.com) :
@@ -138,6 +147,7 @@ at [Tendermint](http://www.tendermint.com) :
 Talk:Consensus, Security, and the Blockchain Programming Interface
 "Introduction of Tendermint consensus engine and programming interface, which allows developers to build distributed applications in any programming language. The Tendermint consensus engine provides optimal fault tolerance against malicious attacks while handling thousands of transactions per second. Get familiar with the background of consensus problem, solutions, while building and run applications utilizing the platform."
 - [Repo Tendermint] (https://github.com/tendermint)
+- [Slides] (http://www.slideshare.net/LearnWTB/consensu-security-and-the-blockchain-gateway-interface-ethan-buchman-tendermint)
 
 #### Adan Sanchez 
 at [Stampery](https://stampery.com/) :
@@ -152,6 +162,7 @@ at [Netki](https://netki.com/) :
 Talk: Building on Blockchains: Which Blocks Should You Use and Why?
 "Just like you choose which language to code in based on what you ultimately want your application to do, so should you choose which blockchain is right for your project. Learn about various blockchains that are out today, what they are best designed for, what additional tools work well with them and what questions you should consider as you build for what will likely be mass scale."
 - [Repo Netki] (https://github.com/netkicorp)
+- [Slides] (http://www.slideshare.net/LearnWTB/blockchains-which-one-what-for-why)
 
 #### Patrick Salami 
 at [HitFin](https://www.hitfin.com/) :
