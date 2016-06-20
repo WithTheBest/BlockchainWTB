@@ -27,7 +27,7 @@ Attended the conference? Watch the talks again on the [Blockchain WTB platform] 
 
 
 - [External Links] (#external-links)
-- [Q&A](#q-and-A)
+- [Q&A](#q-and-a)
    
 
 ## Speakers
@@ -179,6 +179,7 @@ Talk: Building Smart Contracts on Ethereum using HitFin APIs and Python
 
 # Q and A
 Q. What are the most popular sites to find jobs related to blockchain/bitcoin/ethereum ?
+
 A.
 - [decentraljobs.com](http://decentraljobs.com)
 - [blockchain.jobs] (http://blockchain.jobs)
@@ -188,12 +189,14 @@ A.
 - [jobs.ethercasts.com] (http://jobs.ethercasts.com) is a great one (via Kobi)
 
 Q. Are there any researches/publications/articles/journals that have been published in the area of bitcoin/blockchain?
+
 A. 
 - The original [White paper posted by Satoshi N] Oct 2008 (https://bitcoin.org/bitcoin.pdf)
 - Heres a library of blockchain papers: [iohk.io](https://iohk.io/library/) - Whit Jackson
 - [ledger.pitt.edu](http://ledger.pitt.edu/ojs/index.php/ledger) - Whit Jackson
 
 Q. What are the steps I should follow as a novice in the new technology to establish a full time career as a BlockChain developer ?? Thanks
+
 A1 First, understand a bit of how blockchains operate, there is a great [IEEE diagram that shows it for Bitcoin here] (http://thumbnails.visually.netdna-cdn.com/bitcoin-infographic_5029189c9cbaf.jpg)
 Second, watch some presentation with concrete examples. If you're interested in Smart Contracts, for which developers are starting to be hired to develop, you should also check out Ethereum.
 I would also suggest that you check out the companies that are looking for blockchain developers and see what their areas of interest here. Then look for open-source projects in those fields, and try to understand the concepts behind those. - Kobi Gurkan
