@@ -27,7 +27,7 @@ Attended the conference? Watch the talks again on the [Blockchain WTB platform] 
 
 
 - [External Links] (#external-links)
-- [Q&A](#qandA)
+- [Q&A](#q-and-A)
    
 
 ## Speakers
@@ -179,17 +179,19 @@ Talk: Building Smart Contracts on Ethereum using HitFin APIs and Python
 
 # Q and A
 Q. What are the most popular sites to find jobs related to blockchain/bitcoin/ethereum ?
-A. [decentraljobs.com](http://decentraljobs.com)
-[blockchain.jobs] (http://blockchain.jobs)
-[coinality.com](https://coinality.com)
-[jobs.ethercasts.com](http://jobs.ethercasts.com)
-currently hiring [angel.co/stampery/jobs](https://angel.co/stampery/jobs)
-[jobs.ethercasts.com] (http://jobs.ethercasts.com) is a great one (via Kobi)
+A.
+- [decentraljobs.com](http://decentraljobs.com)
+- [blockchain.jobs] (http://blockchain.jobs)
+- [coinality.com](https://coinality.com)
+- [jobs.ethercasts.com](http://jobs.ethercasts.com)
+- currently hiring [angel.co/stampery/jobs](https://angel.co/stampery/jobs)
+- [jobs.ethercasts.com] (http://jobs.ethercasts.com) is a great one (via Kobi)
 
 Q. Are there any researches/publications/articles/journals that have been published in the area of bitcoin/blockchain?
-A. The original [White paper posted by Satoshi N] Oct 2008 (https://bitcoin.org/bitcoin.pdf)
-Heres a library of blockchain papers: [iohk.io](https://iohk.io/library/) - Whit Jackson
-[ledger.pitt.edu](http://ledger.pitt.edu/ojs/index.php/ledger) - Whit Jackson
+A. 
+- The original [White paper posted by Satoshi N] Oct 2008 (https://bitcoin.org/bitcoin.pdf)
+- Heres a library of blockchain papers: [iohk.io](https://iohk.io/library/) - Whit Jackson
+- [ledger.pitt.edu](http://ledger.pitt.edu/ojs/index.php/ledger) - Whit Jackson
 
 Q. What are the steps I should follow as a novice in the new technology to establish a full time career as a BlockChain developer ?? Thanks
 A1 First, understand a bit of how blockchains operate, there is a great [IEEE diagram that shows it for Bitcoin here] (http://thumbnails.visually.netdna-cdn.com/bitcoin-infographic_5029189c9cbaf.jpg)
