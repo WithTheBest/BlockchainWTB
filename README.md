@@ -1,6 +1,6 @@
 # BlockchainWTB
 
-[With The Best][(http://withthebest.com/) is the biggest Online Conference Series for developers [(http://withthebest.com/)
+[With The Best](http://withthebest.com/) is the biggest Online Conference Series for developers
 
 We listened to esteemed Blockchain experts on June 11th for exclusive talks, live coding sessions, Q&As and some attendees benefited from private 1-to-1 chats with the Blockchain gurus. [blockchain.withthebest.com](http://blockchain.withthebest.com/)
 
